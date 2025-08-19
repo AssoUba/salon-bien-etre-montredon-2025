@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>SALON DU BIEN-ÊTRE DE MONTREDON-LABESSONNIE 2025</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #fdf6e3;
+      color: #333;
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1 {
+      color: #6b4f28;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .map {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Course d'Orientation</h1>
+  <div class="section">
+    <strong>Date :</strong> 17 août 2025<br>
+    <strong>Horaires :</strong> de 9h à 14h<br>
+    <strong>Lieu :</strong> Montredon-Labessonnié<br>
+    <strong>Prix :</strong> Participation Libre<br>
+  </div>
+
+  <div class="section">
+    <strong>3 parcours :</strong>
+    <ul>
+      <li>Enfants à partir de 9 ans (sous la surveillance des parents) Parcours en étoile autour du lac</li>
+      <li>Enfants et parents - Parcours 5km/1h de course/marche autour du lac</li>
+      <li>Confirmés - Parcours sur une aire de 10 kms pour 2h de course</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <strong>Sur place :</strong><br>
+    Buvette, crêpes, lots à gagner pour tous les participants !
+  </div>
+
+<div class="section">
+    <strong> Formation : </strong></li>
+  Initiation à la lecture d'une carte et à l'utilisation d'une boussole. Information sur les règles de conduite et sur le parcours. Règles de sécurité.
+  </div>
+
+  <div class="section">
+    <strong> Lieu de rendez-vous : </strong></li>
+  Aire de Pique-Nique du lac de Bezan/ Piscine Municipale - Coordonnées GPS : 43.712458,2.358536
+  </div>
+  
+  <div class="section">
+    <strong>Renseignements et inscription au 07.67.27.18.06 ou par mail: contactuba81360@gmail.com</strong><br>
+    </br>
+  </br>
+    Organisé par l'association <strong>Un Bel Avenir<strong>
+  </div>
+</body>
+</html>
